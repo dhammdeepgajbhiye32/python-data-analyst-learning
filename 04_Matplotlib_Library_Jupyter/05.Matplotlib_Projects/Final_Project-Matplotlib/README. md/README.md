@@ -18,7 +18,7 @@ It includes multiple charts combined into a single Dashboard using subplots.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](9.Dashboard.png)
 
 ---
 
