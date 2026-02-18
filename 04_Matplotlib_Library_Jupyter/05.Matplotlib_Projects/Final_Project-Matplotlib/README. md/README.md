@@ -18,7 +18,7 @@ It includes multiple charts combined into a single Dashboard using subplots.
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Sales Performance Analysis and Visualization Dashboard.png)
+![Dashboard](Sales_Performance_Analysis_and_Visualization_Dashboard.png)
 
 ---
 
