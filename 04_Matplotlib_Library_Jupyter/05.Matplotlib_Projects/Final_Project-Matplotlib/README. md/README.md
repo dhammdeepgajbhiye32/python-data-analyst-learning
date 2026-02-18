@@ -102,7 +102,7 @@ Project-forler/
 ## ▶️ How to Run
 ```bash
 pip install pandas matplotlib numpy
-python sales_dashboard.py
+python sales_dashboard.ipynb
 ```
 
 ---

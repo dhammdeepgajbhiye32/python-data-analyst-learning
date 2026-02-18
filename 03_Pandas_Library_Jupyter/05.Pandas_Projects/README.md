@@ -71,7 +71,7 @@ Dataset : (https://www.kaggle.com/datasets/tunguz/online-retail-ii)
 ---
 
 
-📊 Important KPIs
+## 📊 Important KPIs
 - Total Revenue
 - Total Orders
 - Average Order Value
@@ -80,7 +80,7 @@ Dataset : (https://www.kaggle.com/datasets/tunguz/online-retail-ii)
 ---
 
 
-📊 Exploratory Data Analysis
+## 📊 Exploratory Data Analysis
 
 
 - 1. Top 10 Products by Quantity Sold.
@@ -111,9 +111,10 @@ Project-forler/
 
 1. Clone this repository
 2. Install required libraries:
-
+```bash
 pip install pandas numpy openpyxl
-
+python E-Commerece_Sales_Analysis_and_Visualization.ipynb
+```
 3. Run the Jupyter Notebook
 
 
