@@ -4,7 +4,9 @@
 This project analysis sales data and visualizes key business insights using **Python Matplotlib**
 It includes multiple charts combined into a single Dashboard using subplots.
 
+
 ---
+
 
 ## 🎯 Objectives
 
@@ -15,22 +17,63 @@ It includes multiple charts combined into a single Dashboard using subplots.
 - Understanding Sales Distribution
 - Study Profit vs Sales Relationship
 
+
 ---
+
+
+## 📌 Dataset Information
+Dataset contains:
+- Row ID, Order ID, Product ID, Product Name.
+- Order Date, Ship Date, Ship Month.
+- Customer ID, Customer Name.
+- Segment, Category, Sub-Category.
+- Country, State, Region, City, Postal Code.
+- Market, Shipping Cost, Order Priority.
+- Sales, Quantity, Discount, Profit.
+
+
+---
+
+
+## 📌 Dataset Link
+Dataset: (https://www.kaggle.com/datasets/shekpaul/global-superstore/data)
+
+
+---
+
 
 ## 📷 Dashboard Preview
 ![Dashboard](9.Dashboard.png)
 
+
 ---
+
 
 ## 🛠️ Tools & Technologies
 - Python
 - NumPy
 - Pandas
 - Matplotlib
+- Jupyter Notebook
+- VS Code
+
 
 ---
 
-## 📊 Visualizations Included
+
+## 🧹 Data Cleaning & Preparation
+
+- Data Type Checked.
+- Checking Duplicates and Removed Duplicates.
+- Checking for Null Values and Handle them by dropping.
+- Fixed Date Time Column.
+- Created Month Column.
+
+
+---
+
+
+## 📊 Visualizations Included (EDA)
 1. Month-wise Sales Trend - Line Chart
 2. Region-wise Sales - Bar Chart
 3. Category-wise Profit - Pie Chart
@@ -43,17 +86,18 @@ It includes multiple charts combined into a single Dashboard using subplots.
 
 ---
 
+
 ## 📂 Project Structure
 
 Project-forler/
 - Sales_dashboard.ipynb
-- dataset.csv
+- dataset.xlsx
 - README.md
 - dashboard.png
 
 
-
 ---
+
 
 ## ▶️ How to Run
 ```bash
@@ -61,8 +105,10 @@ pip install pandas matplotlib numpy
 python sales_dashboard.py
 ```
 
+---
 
-📈 Key Insights
+
+## 📈 Key Insights
 
 - Highest sales observed in Last 2 Quarter of Each Year due to Year end Sales like Amazon Prime Day, Labor Day Weekend Sales    
   in Quarter 3 and Halloween Sales, Black Friday and Christmas Sale in Quarter 4.
@@ -70,12 +116,22 @@ python sales_dashboard.py
 - Top performing product is Apple Smart Phones in Sales and Canon imageCLASS 2200 Advanced Copier in Profit.
 - Region with highest sales is Central Region with approx 22% of Total or approx 28.22 Lakhs Rs.
 
+
 ---
 
-👨‍💻 Author
+
+## 👨‍💻 Author
 
 Dhammadeep Gajbhiye
 Aspiring Data Analyst | Python | Power BI | SQL
 
 LinkedIn: (https://linkedin.com/in/dhammadeep-gajbhiye-57b38b16a/)
 GitHub: (https://github.com/dhammdeepgajbhiye32)
+
+
+---
+
+
+## ⭐ If you like this project
+
+Give it a star ⭐ on GitHub — it helps showcase the project!
