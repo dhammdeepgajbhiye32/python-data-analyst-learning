@@ -32,3 +32,6 @@ Thumbs.db
 # ==========================
 *.log
 *.tmp
+
+
+00_Python_Projects_Files/*.csv
