@@ -56,7 +56,7 @@ The dataset contains **1,081,672 hospital discharge records**, providing large-s
 ---
 ## 📂 Dataset
 
-Dataset size: ~790 MB
+Dataset size: 150 MB
 
 The dataset is too large to upload to GitHub.  
 You can download it from Kaggle:
