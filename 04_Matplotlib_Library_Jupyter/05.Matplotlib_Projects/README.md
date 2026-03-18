@@ -103,7 +103,7 @@ Dataset: (https://www.kaggle.com/datasets/shekpaul/global-superstore/data)
 
 
 ## 📷 Dashboard Preview
-![Dashboard](9.Dashboard.png)
+![Dashboard](Charts/9.Dashboard.png)
 
 
 ---
