@@ -9,6 +9,18 @@ strategic decision-making and drive business growth.
 ---
 
 
+## 🔍 Key Insights
+
+1. Majority of sales generated from the United Kingdom, indicating a key revenue market.
+2. A small segments of customers contributes to a significant portion of total revenue (high value customers).
+3. Seasonal sales spikes observed during year-end months.
+4. Certain products are frequently purchased in bulk, indicating bulk buying behaviour.
+5. Negative transactions highlights product returns and cancellations, impacting net revenue.
+
+
+---
+
+
 ## 🎯 Objectives
 - Analysed key sales KPIs: Revenue, Orders, Average Order Value.
 - Identified Top-performing products and customers contributing to revenue.
@@ -29,11 +41,13 @@ Dataset contains:
 - InvoiceDate, Price
 - CustomerID, Country
 
+
 ---
 
 
 ## 📌 Dataset Link
 Dataset : (https://www.kaggle.com/datasets/tunguz/online-retail-ii)
+
 
 ---
 
@@ -106,18 +120,6 @@ pip install pandas numpy openpyxl
 python E-Commerece_Sales_Analysis_and_Visualization.ipynb
 ```
 3. Run the Jupyter Notebook
-
-
----
-
-
-## 🔍 Key Insights
-
-1. Majority of sales come from United Kingdom.
-2. Few customers contribute to a large portion of total revenue.
-3. Seasonal sales spike observed during year-end months
-4. Some products are frequently purchased in bulk
-5. Negative transactions indicate product returns/cancellations
 
 
 ---
