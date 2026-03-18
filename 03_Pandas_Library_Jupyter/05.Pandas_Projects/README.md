@@ -1,30 +1,20 @@
 # 🛒 E-Commerce Sales Analysis using Pandas
 
 ## 📌 Project Overview
-This project analyzes an E-commerce sales dataset using **Python Pandas**
-The objective is to clean, process, and extract meaningful business insights
-such as sales trends, profit analysis, and regional performance.
+This project leverages **Python (Pandas)** to perfrom end to end analysis of e-commerece sales data,
+identifying revenue drivers, top-performing products, and customer purchasing patterns to support 
+strategic decision-making and drive business growth.
 
 
 ---
 
 
 ## 🎯 Objectives
-1. It will contain Business KPIs like 
-      1.1. Total Revenues, 
-      1.2. Total Orders, 
-      1.3. Average Order Values, 
-      1.4. Top 10 Products by Quantity Sold, 
-      1.5. Top 10 Customers by Total Price in countrywise.
-2. Trend Analysis: 
-      2.1. Monthly Sales Trends with pivot table Country wise, 
-      2.2. Yearly Sales Trends with pivot table Country wise ,
-      2.3. Calculating Month over Month Sales Growth Country wise,
-      2.4. Calculating Year over Year Sales Growth Country wise.
-3. Product Analysis: 
-      3.1. Top 10 Products in Quantity Sold, 
-      3.2. Top 10 Products returns by Quantity and Customer ID,
-      3.3. Calculating low quantity but high returns products.
+- Analysed sales KPIs: Revenue, Orders, Average Order Value.
+- Identified Top 10 products, customers contributing to revenue.
+- Perfromed Monthly and Yearly Trend analysis (MoM and YoY).
+- Conducted product return analysis to detect high risk items.
+- Generated country-wise insights for regional performance.
 
 
 ---
