@@ -8,6 +8,25 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 --
 
 
+## 🎯 Objectives
+
+- Analyze monthly and yearly sales trends.
+- Compare region-wise perfromamce.
+- Evaluate category-wise profitabiliye.
+- Identify Top-Performing Products.
+- Study sales distrbution and variability.
+- Analyze relationship between sales and profit.
+
+
+--
+
+
+## 📷 Dashboard Preview
+![Dashboard](Charts/9.Dashboard.png)
+
+
+---
+
 ## 🔑 Key Insights
 
 - Sales peak significantly during **year-end months(Q3 & Q4)**, driven by seasonal demand and major sales events.
@@ -29,20 +48,25 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 - Optimize pricing and discount strategies based on **sales-profit relationship**.
 
 
----
+--
 
+## 📉 Key Visualizations
 
-## 🎯 Objectives
+The following visualizations support the insights and recommendations derived from the analysis:
 
-- Analyze monthly and yearly sales trends.
-- Compare region-wise perfromamce.
-- Evaluate category-wise profitabiliye.
-- Identify Top-Performing Products.
-- Study sales distrbution and variability.
-- Analyze relationship between sales and profit.
+### 📌 Sales Trend
+![Sales Trend](Charts/1_Month_wise_Sales.png)
 
+### 📌 Region-wise Sales
+![Region Sales](Charts/2_Region_wise_Sales.png)
 
----
+### 📌 Category Profit Distribution
+![Category Profit](Charts/3_Category_Wise_Profit.png)
+
+### 📌 Sales Trend by Years
+![Sales Trend by Years](Charts/7_Sales_trend_by_year.png)
+
+--
 
 
 ## 📌 Dataset Information
@@ -97,13 +121,6 @@ Dataset: (https://www.kaggle.com/datasets/shekpaul/global-superstore/data)
 - Top Products by Sales
 - Sales vs Profit Relationship
 - Sales Distribution Patterns
-
-
----
-
-
-## 📷 Dashboard Preview
-![Dashboard](Charts/9.Dashboard.png)
 
 
 ---
