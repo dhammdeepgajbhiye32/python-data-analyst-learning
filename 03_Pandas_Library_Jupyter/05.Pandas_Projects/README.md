@@ -10,11 +10,11 @@ strategic decision-making and drive business growth.
 
 
 ## 🎯 Objectives
-- Analysed sales KPIs: Revenue, Orders, Average Order Value.
-- Identified Top 10 products, customers contributing to revenue.
-- Perfromed Monthly and Yearly Trend analysis (MoM and YoY).
-- Conducted product return analysis to detect high risk items.
-- Generated country-wise insights for regional performance.
+- Analysed key sales KPIs: Revenue, Orders, Average Order Value.
+- Identified Top-performing products and customers contributing to revenue.
+- Perfromed Monthly and Yearly Trend analysis (MoM and YoY growht).
+- Conducted product return analysis to identiy high-risk items.
+- Generated country-wise insights to evaluate regional performance.
 
 
 ---
