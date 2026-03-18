@@ -21,6 +21,18 @@ strategic decision-making and drive business growth.
 ---
 
 
+## 🚀 Business Recommendations
+
+- Focus on high-value customers by implementing targeted marketing campaigns and loyalty programs to maximize revenue contribution.
+- Optimize inventory for top-performing products to prevent stockouts and ensure consistent availability of high-demand items.
+- Leverage seasonal trends by increasing promotions and marketing efforts during peak periods (especially year-end months).
+- Expand in high-performing regions (e.g., United Kingdom) to further boost sales and market share.
+- Reduce product returns and cancellations by identifying high-return items and improving product quality, descriptions, or delivery .
+
+
+---
+
+
 ## 🎯 Objectives
 - Analysed key sales KPIs: Revenue, Orders, Average Order Value.
 - Identified Top-performing products and customers contributing to revenue.
