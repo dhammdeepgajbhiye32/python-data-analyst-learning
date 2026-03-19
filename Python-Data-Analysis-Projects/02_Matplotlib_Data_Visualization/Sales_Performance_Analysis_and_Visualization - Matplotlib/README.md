@@ -19,7 +19,7 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 7. [Dataset Link](#-dataset-link)
 8. [Tools & Technologies](#tools--technologies)
 9. [Data Cleaning & Preparation](#-data-cleaning--preparation)
-10. [Visualizations Included (EDA)](#-visualization-included-(eda))
+10. [Visualizations Included](#-visualization-included)
 11. [Project Structure](#-project-structure)
 12. [How to Run](#how-to-run)
 13. [Author](#author)
@@ -150,7 +150,7 @@ Dataset: (https://www.kaggle.com/datasets/shekpaul/global-superstore/data)
 ---
 
 
-## 📊 Visualizations Included (EDA)
+## 📊 Visualizations Included
 - Sales Trend (Monthly & Yearly)
 - Region-wise Sales Comparison
 - Category-wise Profit Distribution
