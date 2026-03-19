@@ -10,24 +10,6 @@ The goal is to provide **data-driven insights** that can support hospitals in im
 
 ---
 
-## Table of Contents
-
-1. [Objectives](#-objectives)
-2. [Dashboard Preview](#-dashboard-preview)
-3. [Key Insights](#-key-insights)
-4. [Business Recommendations](#-business-recommendations)
-5. [Key Visualizations](#-key-visualizations)
-6. [Dataset Information](#-dataset-information)
-7. [Dataset Link](#-dataset-link)
-8. [Tools & Technologies](#-tools--technologies)
-9. [Data Cleaning & Preparation](#-data-cleaning--preparation)
-10. [Visualizations Included (EDA)](#-visualizations-included-eda)
-11. [Project Structure](#-project-structure)
-12. [How to Run](#how-to-run)
-13. [Author](#author)
-
---
-
 ## 💼 Business Problem
 Healthcare systems face challenges in managing:
 
@@ -38,6 +20,25 @@ Healthcare systems face challenges in managing:
 This project investigates how **severity of illness, patient volume, and hospital characteristics** influence treatment costs and workload distribution.
 
 ---
+
+## Table of Contents
+
+1. [Objectives](#-objectives)
+2. [Dashboard Preview](#-dashboard-preview)
+3. [Key Metrics](#-key-metrics)
+4. [Key Insights](#-key-insights)
+4. [Business Recommendations](#-business-recommendations)
+5. [Key Visualizations](#-key-visualizations)
+6. [Dataset Information](#-dataset-information)
+7. [Dataset Link](#-dataset-link)
+8. [Tools & Technologies](#-tools--technologies)
+9. [Data Cleaning & Preparation](#-data-cleaning--preparation)
+10. [Key Analysis & Visual Insights](#-key-analysis--visual-insights)
+11. [Project Structure](#-project-structure)
+12. [How to Run](#how-to-run)
+13. [Author](#author)
+
+--
 
 ## 🎯 Objectives
 
@@ -61,6 +62,11 @@ This project investigates how **severity of illness, patient volume, and hospita
 
 ---
 
+## 📷 Dashboard Preview
+![Dashboard]()
+
+---
+
 ## 📊 Key Metrics
 
 - Total Records: **1,081,672+**
@@ -68,6 +74,60 @@ This project investigates how **severity of illness, patient volume, and hospita
 - Key Cost Driver: **Severity of Illness**
 - Highest Patient Volume: **Mount Sinai Hospital (511K+ discharges)**
 - Key Observation: **Significant gap between charges and actual cost**
+
+---
+
+## 📈 Key Insights
+
+- Patients with **extreme severity conditions drive the highest treatment costs**, making them the primary contributors to healthcare expenditure.
+- **Mount Sinai Hospital handles the highest patient volume**, indicating heavy workload concentration in a few hospitals.
+- A **significant gap exists between hospital charges and actual treatment costs**, highlighting pricing inefficiencies.
+- Patient volume is **unevenly distributed**, with large hospitals managing the majority of cases.
+- Higher patient volume does not always directly translate to higher costs, indicating **operational and efficiency differences across hospitals**.
+
+---
+
+## 🚀 Business Recommendations
+
+- Allocate more resources to **high-severity cases** to manage rising treatment costs effectively.
+- Optimize pricing strategies to reduce the gap between **charges and actual costs**.
+- Improve operational efficiency in **high-volume hospitals** to balance workload distribution.
+- Use historical data to implement **predictive planning for patient inflow and severity trends**.
+- Ensure **transparent billing practices** to improve trust and cost management.
+
+---
+
+## 📉 Key Visualizations
+
+The following visualizations support the insights and recommendations derived from the analysis:
+
+### 📌 Sales Trend
+![Sales Trend]()
+
+**Insight:**
+
+**Impact:**
+
+### 📌 Region-wise Sales
+![Region Sales]()
+
+**Insight:**
+
+**Impact:**
+
+### 📌 Category Profit Distribution
+![Category Profit]()
+
+**Insight:**
+
+**Impact:**
+
+### 📌 Sales Trend by Years
+![Sales Trend by Years]()
+
+**Insight:**
+
+**Impact:**
 
 ---
 
@@ -127,30 +187,6 @@ https://www.kaggle.com/datasets/wajahat1064/hospital-inpatient-cost-data-by-new-
 - Distribution of Hospital Charges
 - Resource Utilization across Hospitals
 - Medical vs Surgical Cases Trend
-
----
-
-## 📷 Sample Visualizations
-
---
-
-## 📈 Key Insights
-
-- Patients with **extreme severity conditions drive the highest treatment costs**, making them the primary contributors to healthcare expenditure.
-- **Mount Sinai Hospital handles the highest patient volume**, indicating heavy workload concentration in a few hospitals.
-- A **significant gap exists between hospital charges and actual treatment costs**, highlighting pricing inefficiencies.
-- Patient volume is **unevenly distributed**, with large hospitals managing the majority of cases.
-- Higher patient volume does not always directly translate to higher costs, indicating **operational and efficiency differences across hospitals**.
-
----
-
-## 🚀 Business Recommendations
-
-- Allocate more resources to **high-severity cases** to manage rising treatment costs effectively.
-- Optimize pricing strategies to reduce the gap between **charges and actual costs**.
-- Improve operational efficiency in **high-volume hospitals** to balance workload distribution.
-- Use historical data to implement **predictive planning for patient inflow and severity trends**.
-- Ensure **transparent billing practices** to improve trust and cost management.
 
 ---
 
