@@ -12,17 +12,17 @@ The goal is to provide **data-driven insights** that can support hospitals in im
 
 ## Table of Contents
 
-1. [Objectives](#objectives)
-2. [Dashboard Preview](#dashboard-preview)
-3. [Key Insights](#key-insights)
-4. [Business Recommendations](#business-recommendations)
-5. [Key Visualizations](#key-visualizations)
-6. [Dataset Information](#dataset-information)
-7. [Dataset Link](#dataset-link)
-8. [Tools & Technologies](#tools-&-technologies)
-9. [Data Cleaning & Preparation](#data-cleaning--preparation)
-10. [Visualizations Included (EDA)](#visualizations-included-eda)
-11. [Project Structure](#project-structure)
+1. [Objectives](#-objectives)
+2. [Dashboard Preview](#-dashboard-preview)
+3. [Key Insights](#-key-insights)
+4. [Business Recommendations](#-business-recommendations)
+5. [Key Visualizations](#-key-visualizations)
+6. [Dataset Information](#-dataset-information)
+7. [Dataset Link](#-dataset-link)
+8. [Tools & Technologies](#-tools--technologies)
+9. [Data Cleaning & Preparation](#-data-cleaning--preparation)
+10. [Visualizations Included (EDA)](#-visualizations-included-eda)
+11. [Project Structure](#-project-structure)
 12. [How to Run](#how-to-run)
 13. [Author](#author)
 
@@ -174,7 +174,7 @@ Hospital-EDA-Seaborn/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install pandas seaborn matplotlib numpy
@@ -182,7 +182,7 @@ python hospital_eda_analysis.ipynb
 ```
 ---
 
-## 👨‍💻 Author
+## Author
 
 Dhammadeep Gajbhiye
 Aspiring Data Analyst | Python | Power BI | SQL
