@@ -19,7 +19,7 @@ The goal is to provide **data-driven insights** that can support hospitals in im
 5. [Key Visualizations](#key-visualizations)
 6. [Dataset Information](#dataset-information)
 7. [Dataset Link](#dataset-link)
-8. [Tools & Technologies](#tools--technologies)
+8. [Tools & Technologies](#tools-&-technologies)
 9. [Data Cleaning & Preparation](#data-cleaning--preparation)
 10. [Visualizations Included (EDA)](#visualizations-included-eda)
 11. [Project Structure](#project-structure)
