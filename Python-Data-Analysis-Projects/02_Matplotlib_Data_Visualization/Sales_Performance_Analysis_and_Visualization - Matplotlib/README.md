@@ -13,7 +13,7 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 1. [Objectives](#-objectives)
 2. [Dashboard Preview](#-dashboard-preview)
 3. [Key Insights](#-key-insights)
-4. [Business Recommendations](#-business-recommendation)
+4. [Business Recommendations](#-business-recommendations)
 5. [Key Visualizations](#-key-visualizations)
 6. [Dataset Information](#-dataset-information)
 7. [Dataset Link](#-dataset-link)
