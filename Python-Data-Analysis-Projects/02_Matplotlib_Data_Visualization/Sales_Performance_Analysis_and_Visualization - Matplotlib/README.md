@@ -19,10 +19,10 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 7. [Dataset Link](#-dataset-link)
 8. [Tools & Technologies](#-tools--technologies)
 9. [Data Cleaning & Preparation](#-data-cleaning--preparation)
-10. [Visualizations Included (EDA)](#-visualization-included-(EDA))
+10. [Visualizations Included (EDA)](#-visualization-included-eda)
 11. [Project Structure](#-project-structure)
-12. [How to Run](#-how-to-run)
-13. [Author](#-author)
+12. [How to Run](#how-to-run)
+13. [Author](#author)
 
 
 --
