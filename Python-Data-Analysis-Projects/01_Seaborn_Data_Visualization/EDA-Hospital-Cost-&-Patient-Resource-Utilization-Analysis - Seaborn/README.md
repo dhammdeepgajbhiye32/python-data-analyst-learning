@@ -10,6 +10,26 @@ The goal is to provide **data-driven insights** that can support hospitals in im
 
 ---
 
+## Table of Contents
+
+1. [Business Problem](#business-problem)
+2. [Objectives](#objectives)
+3. [Project Workflow](#project-workflow)
+4. [Key Metrics](#key-metrics)
+5. [Dataset Information](#dataset-information)
+6. [Tools & Technologies](#tools-&-technologies)
+7. [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+8. [Key Analysis & Visual Insights](#key-analysis-&-viausl-insights)
+9. [Sample Visualizations](#sample-visualizations)
+10. [Key Insights](#key-insights)
+11. [Business Recommendations](#business-recommendations)
+12. [Project Impact](#project-impact)
+13. [Project Structure](#project-structure)
+14. [How to Run](#how-to-run)
+15. [Author](#author)
+
+--
+
 ## 💼 Business Problem
 Healthcare systems face challenges in managing:
 
@@ -43,7 +63,7 @@ This project investigates how **severity of illness, patient volume, and hospita
 
 ---
 
-📊 Key Metrics
+## 📊 Key Metrics
 
 - Total Records: **1,081,672+**
 - Dataset Size: **150 MB**
@@ -136,7 +156,7 @@ https://www.kaggle.com/datasets/wajahat1064/hospital-inpatient-cost-data-by-new-
 
 ---
 
-💡 Project Impact
+## 💡 Project Impact
 
 - Identified key **cost-driving factors in healthcare systems**.
 - Highlighted **resource imbalance across hospitals**.
@@ -164,7 +184,7 @@ python hospital_eda_analysis.ipynb
 ```
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Dhammadeep Gajbhiye
 Aspiring Data Analyst | Python | Power BI | SQL

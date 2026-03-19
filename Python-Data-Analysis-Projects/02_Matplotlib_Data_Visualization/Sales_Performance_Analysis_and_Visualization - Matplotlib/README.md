@@ -8,6 +8,26 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 --
 
 
+## Table of Contents
+
+1. [Objectives](#objectives)
+2. [Dashboard Preview](#dashboard-preview)
+3. [Key Insights](#key-insights)
+4. [Business Recommendations](#business-recommendation)
+5. [Key Visualizations](#key-visualizations)
+6. [Dataset Information](#dataset-information)
+7. [Dataset Link](#dataset-link)
+8. [Tools & Technologies](#tools-&-technologies)
+9. [Data Cleaning & Preparation](#data-cleaning-&-preparation)
+10. [Visualizations Included (EDA)](#visualization-included-(EDA))
+11. [Project Structure](#project-structure)
+12. [How to Run](#how-to-run)
+13. [Author](#author)
+
+
+--
+
+
 ## 🎯 Objectives
 
 - Analyze monthly and yearly sales trends.
@@ -57,14 +77,26 @@ The following visualizations support the insights and recommendations derived fr
 ### 📌 Sales Trend
 ![Sales Trend](Charts/1_Month_wise_Sales.png)
 
+**Insight:** Sales shw an overall upward trend with noticable peak toward the end of the year, indicating strong seasonal demand.
+**Impact:** Business should increase inventory and marketing efforts during peak months (Nov-Dec) to maximize revenue.
+
 ### 📌 Region-wise Sales
 ![Region Sales](Charts/2_Region_wise_Sales.png)
+
+**Insight:** A few regions (likely West/East) contributes significantly higher sales, while others undereperforming.
+**Impact:** Focus expansion and marketing in high-performing regions while imporving startegy in low-performing areas to balance growth.
 
 ### 📌 Category Profit Distribution
 ![Category Profit](Charts/3_Category_Wise_Profit.png)
 
+**Insight:** Technology contributes the highest profit (~45%), followed by Office Supplies, while Furniture has the lowest share.
+**Impact:** Prioritize high-margin categories like Technologies for low-profit segments like Furniture.
+
 ### 📌 Sales Trend by Years
 ![Sales Trend by Years](Charts/7_Sales_trend_by_year.png)
+
+**Insight:** Sales have grown consistently year-over-year, indicating strong business expansion and increasing demand.
+**Impact:** Supports long-term investment and scaling strategies, as the business shows sustainable growth momentum.
 
 --
 
