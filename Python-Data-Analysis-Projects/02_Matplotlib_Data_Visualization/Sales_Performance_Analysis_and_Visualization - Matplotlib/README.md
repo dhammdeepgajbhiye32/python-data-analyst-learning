@@ -17,7 +17,7 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 5. [Key Visualizations](#-key-visualizations)
 6. [Dataset Information](#-dataset-information)
 7. [Dataset Link](#-dataset-link)
-8. [Tools & Technologies](#-tools--technologies)
+8. [Tools & Technologies](#tools--technologies)
 9. [Data Cleaning & Preparation](#-data-cleaning--preparation)
 10. [Visualizations Included (EDA)](#-visualization-included-eda)
 11. [Project Structure](#-project-structure)
@@ -126,7 +126,7 @@ Dataset: (https://www.kaggle.com/datasets/shekpaul/global-superstore/data)
 ---
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
 - NumPy
 - Pandas
@@ -174,7 +174,7 @@ Project-forler/
 ---
 
 
-## ▶️ How to Run
+## How to Run
 ```bash
 pip install pandas matplotlib numpy
 python sales_dashboard.ipynb
@@ -184,7 +184,7 @@ python sales_dashboard.ipynb
 ---
 
 
-## 👨‍💻 Author
+## Author
 
 Dhammadeep Gajbhiye
 Aspiring Data Analyst | Python | Power BI | SQL
