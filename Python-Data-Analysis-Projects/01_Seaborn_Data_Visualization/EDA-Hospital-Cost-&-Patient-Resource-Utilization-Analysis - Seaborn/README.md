@@ -1,60 +1,72 @@
 # 📊 Hospital Cost & Patient Resource Utilization Analysis – Seaborn
 
-## 📊 Project Summary
-This project performs Exploratory Data Analysis (EDA) on **1.08M+ hospital discharge records** to understand healthcare costs and resource utilization. Using **Python, Pandas, and Seaborn**, the analysis explores patterns in **patient volume, severity of illness, and treatment costs** across hospitals. The goal is to identify key drivers of healthcare costs and understand hospital workload distribution.
+## 📌 Project Overview
+
+This project analyzes **1.08M+ hospital discharge records** to uncover key drivers of **healthcare costs and hospital resource utilization**.
+
+Using **Python (Pandas, Seaborn, Matplotlib)**, the analysis identifies patterns in **patient volume, severity of illness, and treatment costs**, helping simulate real-world healthcare decision-making scenarios.
+
+The goal is to provide **data-driven insights** that can support hospitals in improving **cost efficiency, resource allocation, and operational planning**.
 
 ---
 
 ## 💼 Business Problem
-Healthcare systems need to understand how hospital resources are utilized and what factors drive treatment costs.  
-This analysis investigates how **patient volume, illness severity, and hospital characteristics influence treatment charges and costs**, helping uncover patterns in healthcare spending and resource allocation.
+Healthcare systems face challenges in managing:
+
+- Rising treatment costs- 
+- Uneven distribution of patient load
+- Inefficient resource allocation
+
+This project investigates how **severity of illness, patient volume, and hospital characteristics** influence treatment costs and workload distribution.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze hospital **patient volume (discharges)**
-- Study **severity of illness and its impact on treatment cost**
-- Compare **hospital-wise treatment costs**
-- Examine the relationship between **patient volume and hospital cost**
-- Understand **distribution of hospital charges and costs**
+- Analyze **hospital patient volume (discharges)**
+- Study the **impact of illness severity on treatment cost**
+- Compare **hospital-wise cost variations**
+- Examine the **relationship between patient volume and hospital cost**
+- Understand **distribution of hospital charges vs actual costs**
 - Identify patterns in **healthcare resource utilization**
 
 ---
 
-## ❓ Key Questions Answered
+## 🔄 Project Workflow
 
-- Which hospitals handle the highest patient volumes?
-- How does severity of illness affect treatment cost?
-- Do hospitals with higher patient volumes charge more?
-- What is the difference between hospital charges and actual treatment costs?
-- How are healthcare resources distributed across hospitals?
+1. Data Collection (Kaggle Dataset)
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis
+4. Data Visualization using Seaborn & Matplotlib
+5. Insight Generation
+6. Business Recommendations
+
+---
+
+📊 Key Metrics
+
+- Total Records: **1,081,672+**
+- Dataset Size: **150 MB**
+- Key Cost Driver: **Severity of Illness**
+- Highest Patient Volume: **Mount Sinai Hospital (511K+ discharges)**
+- Key Observation: **Significant gap between charges and actual cost**
 
 ---
 
-## 📌 Dataset Information
+## 📂 Dataset Information
 
-The dataset contains hospital inpatient discharge records including:
+The dataset includes:
 
-- Health Service Area
-- Hospital County
-- Facility Name
-- Age Group
-- Gender
-- Race
-- Type of Admission
-- Patient Disposition
-- Severity of Illness
-- Risk of Mortality
-- Length of Stay
-- Discharges
-- Mean Charges
-- Mean Cost
-
-The dataset contains **1,081,672 hospital discharge records**, providing large-scale insights into healthcare resource utilization.
+- Health Service Area, Hospital County, Facility Name
+- Patient Demographics (Age, Gender, Race)
+- Admission Type & Disposition
+- Severity of Illness & Risk of Mortality
+- Length of Stay & Discharges
+- Mean Charges & Mean Cost
 
 ---
-## 📂 Dataset
+
+## 📂 Dataset Link:
 
 Dataset size: 150 MB
 
@@ -70,8 +82,8 @@ https://www.kaggle.com/datasets/wajahat1064/hospital-inpatient-cost-data-by-new-
 - Python
 - NumPy
 - Pandas
-- Seaborn
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 - VS Code
 
@@ -79,42 +91,57 @@ https://www.kaggle.com/datasets/wajahat1064/hospital-inpatient-cost-data-by-new-
 
 ## 🧹 Data Cleaning & Preparation
 
-- Checked dataset structure and data types
+- Checked data structure and types
 - Handled missing values
-- Removed unnecessary columns
+- Removed unnecessary columns and irrelevent columns
 - Checked duplicates
 - Standardized categorical variables
-- Prepared dataset for Exploratory Data Analysis
+- Prepared dataset for Analysis
 
 ---
 
-## 📊 Visualizations Included (EDA)
+## 📊 Key Analysis & Visual Insights
 
-1. Severity of Illness Distribution – Pie Chart  
-2. Hospital-wise Patient Volume – Bar Chart  
-3. Mean Treatment Cost by Severity Level – Bar Plot  
-4. Patient Volume vs Mean Cost – Scatter Plot  
-5. Distribution of Hospital Charges – Histogram  
-6. Hospital Resource Utilization – Horizontal Bar Chart  
-7. Medical vs Surgical Cases Trend – Line Plot  
+- Severity of Illness Distribution
+- Hospital-wise Patient Volume
+- Mean Treatment Cost by Severity
+- Patient Volume vs Treatment Cost
+- Distribution of Hospital Charges
+- Resource Utilization across Hospitals
+- Medical vs Surgical Cases Trend
 
 ---
+
+## 📷 Sample Visualizations
+
+--
 
 ## 📈 Key Insights
 
-- The dataset contains **1,081,672 hospital discharge records**, enabling large-scale healthcare analysis.
-- **Mount Sinai Hospital recorded the highest patient volume with 511,828 discharges**, followed by **North Shore University Hospital with 459,402 discharges**.
-- **Extreme severity illness cases generate the highest mean treatment costs**, indicating higher healthcare resource utilization.
-- A noticeable gap exists between **hospital charges and actual treatment costs**, highlighting billing markups.
-- Patient volumes are **unevenly distributed across hospitals**, with large hospitals handling the majority of cases.
+- Patients with **extreme severity conditions drive the highest treatment costs**, making them the primary contributors to healthcare expenditure.
+- **Mount Sinai Hospital handles the highest patient volume**, indicating heavy workload concentration in a few hospitals.
+- A **significant gap exists between hospital charges and actual treatment costs**, highlighting pricing inefficiencies.
+- Patient volume is **unevenly distributed**, with large hospitals managing the majority of cases.
+- Higher patient volume does not always directly translate to higher costs, indicating **operational and efficiency differences across hospitals**.
 
 ---
 
-## 📊 Conclusion
+## 🚀 Business Recommendations
 
-This analysis examined **1.08M+ hospital discharge records** to understand hospital costs and resource utilization patterns.  
-The results show that **severity of illness significantly impacts treatment costs**, while patient volume is concentrated in a few large hospitals such as **Mount Sinai Hospital with over 511K discharges**.  
-Overall, the study highlights key factors influencing **hospital workload, treatment costs, and healthcare resource utilization**.
+- Allocate more resources to **high-severity cases** to manage rising treatment costs effectively.
+- Optimize pricing strategies to reduce the gap between **charges and actual costs**.
+- Improve operational efficiency in **high-volume hospitals** to balance workload distribution.
+- Use historical data to implement **predictive planning for patient inflow and severity trends**.
+- Ensure **transparent billing practices** to improve trust and cost management.
+
+---
+
+💡 Project Impact
+
+- Identified key **cost-driving factors in healthcare systems**.
+- Highlighted **resource imbalance across hospitals**.
+- Provided insights for **cost optimization and operational efficiency**.
+- Simulated a **real-world healthcare analytics use case**.
 
 ---
 
@@ -124,8 +151,8 @@ Hospital-EDA-Seaborn/
 │
 ├── hospital_eda_analysis.ipynb
 ├── dataset.csv
-├── README.md
-└── seaborn_visualizations.png
+├── seaborn_visualizations.png
+└── README.md
 
 ---
 
@@ -139,7 +166,7 @@ python hospital_eda_analysis.ipynb
 
 👨‍💻 Author
 
-Dhammdeep Gajbhiye
+Dhammadeep Gajbhiye
 Aspiring Data Analyst | Python | Power BI | SQL
 
 LinkedIn: (https://linkedin.com/in/dhammadeep-gajbhiye-57b38b16a/)
