@@ -62,11 +62,6 @@ This project investigates how **severity of illness, patient volume, and hospita
 
 ---
 
-## 📷 Dashboard Preview
-![Dashboard]()
-
----
-
 ## 📊 Key Metrics
 
 - Total Records: **1,081,672+**
@@ -101,33 +96,40 @@ This project investigates how **severity of illness, patient volume, and hospita
 
 The following visualizations support the insights and recommendations derived from the analysis:
 
-### 📌 Sales Trend
-![Sales Trend]()
+### 📌 Most Frequently Diagnosis Category
+![Most Frequently Diagnosis Category](Charts/003.Most_Frequetly_Diagnosis_Category_in_Hospital_Discharges.png)
 
-**Insight:**
+**Insight:** Diabetes, pneumonia, and respiratory-related diseases are the most common causes of hospital discharges.
 
-**Impact:**
+**Impact:** Hospitals should allocate more resources, staff, and preventive care programs toward high-frequency diseases to improve efficiency and reduce patient load.
 
-### 📌 Region-wise Sales
-![Region Sales]()
+### 📌 Patient Distribution across Hospitals
+![Patient Distribution across Hospitals](Charts/004.Patient_Distribution_acorss_Different_Hospitals.png)
 
-**Insight:**
+**Insight:** Patient distribution is highly right-skewed, with a few hospitals handling extremely high patient volumes.
 
-**Impact:**
+**Impact:** Healthcare systems should balance patient load by improving infrastructure and accessibility in lower-volume hospitals.
 
-### 📌 Category Profit Distribution
-![Category Profit]()
+### 📌 Severity Levels of Illness
+![Severity Levels of Illness](Charts/005.Sevierity_Levels_of_Illness_Distributed_among_Hospitals.png)
 
-**Insight:**
+**Insight:** Moderate and Minor cases dominate hospital admissions, while Extreme cases are significantly lower.
 
-**Impact:**
+**Impact:** Hospitals should optimize workflows for moderate cases and reserve critical care resources for high-severity patients.
 
-### 📌 Sales Trend by Years
-![Sales Trend by Years]()
+### 📌 Medical vs Surgical Treatment per Year
+![Medical vs Surgical Treatment per Year](Charts/008.Medical_vs_Surgical_Treatments_Per_Year.png)
 
-**Insight:**
+**Insight:** Both medical and surgical treatment costs show a consistent upward trend, with surgical costs slightly catching up over time.
 
-**Impact:**
+**Impact:** Healthcare providers should plan long-term budgeting and cost-control strategies as treatment expenses are steadily increasing.
+
+### 📌 Hospital Costs across Healthcare Facilities
+![Hospital Costs across Healthcare Facilities](Charts/010.Hospital_Costs_across_different_Healthcare_Facilities.png)
+
+**Insight:** There is a significant variation in mean treatment costs across hospitals, indicating pricing inconsistency.
+
+**Impact:** Standardizing treatment costs or improving transparency can enhance patient trust and reduce cost disparities.
 
 ---
 
