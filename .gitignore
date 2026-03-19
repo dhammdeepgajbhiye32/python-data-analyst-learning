@@ -1,37 +1,57 @@
-# ==========================
+# ==============================
+# Large / risky data files
+# ==============================
+
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.db
+*.sqlite
+
+# Models (usually large)
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Archives (usually large)
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Videos / heavy media
+*.mp4
+*.avi
+*.mov
+
+# Logs
+*.log
+
+# ==============================
 # Python
-# ==========================
+# ==============================
+
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-venv/
-env/
-.venv/
-
-# ==========================
-# Jupyter Notebook
-# ==========================
 .ipynb_checkpoints/
 
-# ==========================
-# VS Code settings
-# ==========================
-.vscode/
+# ==============================
+# Environments
+# ==============================
 
-# ==========================
-# OS / System files
-# ==========================
-.DS_Store
-Thumbs.db
+venv/
+env/
 
-# ==========================
-# Logs / temp
-# ==========================
-*.log
-*.tmp
+# ==============================
+# OPTIONAL (commented out)
+# Uncomment only if needed
+# ==============================
 
-
-00_Python_Projects_Files/*.csv
+*.csv
+*.xlsx
+*.json
+# *.png
+# *.jpg
