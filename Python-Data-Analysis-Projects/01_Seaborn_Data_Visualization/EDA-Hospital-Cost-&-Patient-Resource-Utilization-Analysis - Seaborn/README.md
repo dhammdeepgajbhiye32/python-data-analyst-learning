@@ -202,11 +202,10 @@ https://www.kaggle.com/datasets/wajahat1064/hospital-inpatient-cost-data-by-new-
 ## 📂 Project Structure
 
 Hospital-EDA-Seaborn/
-│
-├── hospital_eda_analysis.ipynb
-├── dataset.csv
-├── seaborn_visualizations.png
-└── README.md
+- hospital_eda_analysis.ipynb
+- dataset.csv
+- seaborn_visualizations.png
+- README.md
 
 ---
 
