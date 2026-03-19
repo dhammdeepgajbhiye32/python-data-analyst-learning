@@ -24,9 +24,8 @@ This project investigates how **severity of illness, patient volume, and hospita
 ## Table of Contents
 
 1. [Objectives](#-objectives)
-2. [Dashboard Preview](#-dashboard-preview)
-3. [Key Metrics](#-key-metrics)
-4. [Key Insights](#-key-insights)
+2. [Key Metrics](#-key-metrics)
+3. [Key Insights](#-key-insights)
 4. [Business Recommendations](#-business-recommendations)
 5. [Key Visualizations](#-key-visualizations)
 6. [Dataset Information](#-dataset-information)
