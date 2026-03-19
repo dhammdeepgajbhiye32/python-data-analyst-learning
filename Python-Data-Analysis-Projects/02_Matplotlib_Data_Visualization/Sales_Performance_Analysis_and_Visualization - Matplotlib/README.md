@@ -10,19 +10,19 @@ This project leverages **Python (Matplotlib)** to perform end-to-end sales data 
 
 ## Table of Contents
 
-1. [Objectives](#objectives)
-2. [Dashboard Preview](#dashboard-preview)
-3. [Key Insights](#key-insights)
-4. [Business Recommendations](#business-recommendation)
-5. [Key Visualizations](#key-visualizations)
-6. [Dataset Information](#dataset-information)
-7. [Dataset Link](#dataset-link)
-8. [Tools & Technologies](#tools-&-technologies)
-9. [Data Cleaning & Preparation](#data-cleaning-&-preparation)
-10. [Visualizations Included (EDA)](#visualization-included-(EDA))
-11. [Project Structure](#project-structure)
-12. [How to Run](#how-to-run)
-13. [Author](#author)
+1. [Objectives](#-objectives)
+2. [Dashboard Preview](#-dashboard-preview)
+3. [Key Insights](#-key-insights)
+4. [Business Recommendations](#-business-recommendation)
+5. [Key Visualizations](#-key-visualizations)
+6. [Dataset Information](#-dataset-information)
+7. [Dataset Link](#-dataset-link)
+8. [Tools & Technologies](#-tools-&-technologies)
+9. [Data Cleaning & Preparation](#-data-cleaning-&-preparation)
+10. [Visualizations Included (EDA)](#-visualization-included-(EDA))
+11. [Project Structure](#-project-structure)
+12. [How to Run](#-how-to-run)
+13. [Author](#-author)
 
 
 --
