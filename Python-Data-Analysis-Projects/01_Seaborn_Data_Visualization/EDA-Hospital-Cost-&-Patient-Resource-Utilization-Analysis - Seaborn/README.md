@@ -204,8 +204,8 @@ https://www.kaggle.com/datasets/wajahat1064/hospital-inpatient-cost-data-by-new-
 Hospital-EDA-Seaborn/
 - hospital_eda_analysis.ipynb
 - dataset.csv
-- seaborn_visualizations.png
 - README.md
+- seaborn_visualizations.png
 
 ---
 
